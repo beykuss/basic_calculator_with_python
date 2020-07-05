@@ -26,7 +26,7 @@ class HesapMak(QMainWindow):
         self.setUI()
 
     def setUI(self):
-################################Giriş Alanı #############
+################################ Entry Area #############
 
 
         self.giris = QLabel(self)
